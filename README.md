@@ -13,13 +13,26 @@ Other than using a laptop charger, you can also use any other available power su
 Such as commercially available power supplies for CCTVs, ATX power supplies for PCs and etc. 
 
 In this case, I'm using a stripped-apart laptop charger module, which outputs a maximum of 65W (19.5V at 3A). 
-Instead of the DC barrel charging wire, I've instead directly soldered two 12-gauge wires onto the charger PCB. 
+Instead of the DC barrel charging wire, I've directly soldered two 12-gauge wires onto the charger PCB. 
 
-I've also added a 120mm x 120mm 12V fan for cooling purposes to cool the internals since the laptop charger gets considerably warm when using. 
-Since the power supply outputs 19.5V, a 12V Micro-560 Pro buck module is used to step down the DC voltage to 12V. 
+I've also added a 120mm x 120mm 12V fan for cooling purposes to cool the internals since the laptop charger gets considerably warm when in use. 
+Since the power supply outputs 19.5V, a 12V Micro-560 Pro buck module is used to step down the DC voltage to 12V to power the cooling fan.
 You can use any other available buck module, though its a good idea to avoid the LM-series buck converters since its relatively ancient and inefficient compared to newer options. 
 It also has a slower switching frequency of roughly 150kHz, which may introduce higher output ripples (that may not matter for this application but its still good to keep that in mind for other projects).
-Its always good practice to test the power supply you've gotten with an oscilloscope to make sure that it fits your project requirements.
+Its always good practice to test the DC-DC converters you've gotten with an oscilloscope to make sure that it fits your project requirements.
 
 A red pushbutton with built-in LED is used to switch the laptop power supply on and off. 
-To power it on, a 5V Micro-560 Pro buck module is used to step-down the 19.5V from the power supply to a steady 5V. 
+It is connected to the input side of the laptop charger. 
+To power the internal LED, a 5V Micro-560 Pro buck module is used to step-down the 19.5V from the power supply to a steady 5V. 
+However, a regular switch without the built-in LED indicator can also be used, in which case the Micro-560 module would not be required anymore.
+
+Two banana ports are used as the output connectors, as this is what's commonly found on other lab bench power supplies. 
+
+The power supply module used is a XY-SK150S   
+
+# Components:
+1. 120mm x 120mm 12V cooling fan
+2. 12V Mini-560 Pro Buck Converter
+3. 5V Mini-560 Pro Buck Converter
+4. Red Pushbutton with internal LED
+5. Red and Black Banana Plugs (Female)
