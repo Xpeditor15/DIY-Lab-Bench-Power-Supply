@@ -29,7 +29,7 @@ However, a regular switch without the built-in LED indicator can also be used, i
 Two banana ports are used as the output connectors, as this is what's commonly found on other lab bench power supplies. 
 
 The power supply module used is a XY-SK150S adjustable buck-boost power supply, with a maximum power output of 150W (6-36V input voltage, 0-40V output voltage, 0-8A output current). 
-There are many other such power supply module, though the majority of it are **buck** modules, which means that they can supply an output voltage **lower** than the input voltage supplied. 
+There are many other such power supply module, though the majority of it are **buck** modules, which means that they can only supply an output voltage **lower** than the input voltage supplied. 
 Since the laptop charger I'm using can only supply 19.5V, that means that the maximum output voltage of the power supply would probably be about 18V (since the output voltage of such buck converters are typically 1-2V smaller than the input), which isn't very helpful since some applications may require the power supply to give 24V and higher.
 The power supply comes with several features such as constant current and constant voltage features for accurate adjustments of voltage and current. 
 It also has several safety features such as anti-reverse polarity and supports lithium battery charging (with under-voltage, over-voltage, over-current protection and etc, [refer to the manual here](https://manuals.plus/ae/1005008906878438))
