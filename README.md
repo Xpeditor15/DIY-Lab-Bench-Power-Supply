@@ -6,6 +6,7 @@ The .stl files are available inside and the power supply consists of four separa
 2. Top plate with fan mounting and ventilation
 3. Front plate with mounting for power supply module
 4. Back plate with port for AC input charger
+5. Standoff feet for ventilation
 
 The schematic for it will be added in the future!
 
