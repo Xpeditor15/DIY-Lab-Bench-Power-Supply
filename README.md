@@ -43,4 +43,6 @@ I've decided to go with the 150W model as this would allow me to replace my lapt
 3. 5V Mini-560 Pro Buck Converter
 4. Red Pushbutton with internal LED
 5. Red and Black Banana Plugs (Female)
-6. PLA 3D filament
+6. XY-SK150S Adjustable Buck-Boost Power Supply
+7. Heat Shrinks of Varying Sizes
+8. PLA 3D filament
