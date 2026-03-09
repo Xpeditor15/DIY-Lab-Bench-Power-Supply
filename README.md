@@ -46,3 +46,10 @@ I've decided to go with the 150W model as this would allow me to replace my lapt
 6. XY-SK150S Adjustable Buck-Boost Power Supply
 7. Heat Shrinks of Varying Sizes
 8. PLA 3D filament
+
+![1773071858578](https://github.com/user-attachments/assets/5a2526fa-f05f-4799-87af-9566b0e94cf5)
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/5a2526fa-f05f-4799-87af-9566b0e94cf5" alt="Circuit Schematic of the Power Supply">
+  <figcaption align="center"><b>Figure 1:</b> Circuit Schematic of the Power Supply</figcaption>
+</figure>
