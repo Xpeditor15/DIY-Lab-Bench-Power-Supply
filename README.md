@@ -46,32 +46,46 @@ I've decided to go with the 150W model as this would allow me to replace my lapt
 7. Heat Shrinks of Varying Sizes
 8. PLA 3D filament
 
-<figure>
-  <img width="700" src="https://github.com/user-attachments/assets/f7ccc004-a680-4aa5-9b45-016438eef96c" alt="Circuit Schematic of the Power Supply">
-  <figcaption align="center"><b>Figure 1:</b> Circuit Schematic of the Power Supply</figcaption>
-</figure>
+<div align="center">
 
-<figure>
-  <img width="700" src="https://github.com/user-attachments/assets/95dcf6d1-8fc5-4e13-9051-462cd69e71c4" alt="Front of Power Supply">
-  <figcaption align="center"><b>Figure 2:</b> Picture of the front of the power supply</figcaption>
-</figure>
+  <figure>
+    <img width="800" src="https://github.com/user-attachments/assets/f7ccc004-a680-4aa5-9b45-016438eef96c" alt="Circuit Schematic">
+    <figcaption><b>Figure 1:</b> Circuit Schematic of the Power Supply</figcaption>
+  </figure>
 
-<figure>
-  <img width="247" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" alt="Top of Power Supply">
-  <figcaption align="center"><b>Figure 3:</b> Picture of the top of the power supply</figcaption>
-</figure>
+  <br>
 
-<figure>
-  <img width="1014" height="650" alt="image" src="https://github.com/user-attachments/assets/9e8af5b8-cf24-4819-9dfe-44928e1cf1a4">
-  <figcaption align="center"><b>Figure 4:</b> Picture of the back of the power supply</figcaption>
-</figure>
+  <figure>
+    <img width="800" src="https://github.com/user-attachments/assets/95dcf6d1-8fc5-4e13-9051-462cd69e71c4" alt="Front">
+    <figcaption><b>Figure 2:</b> Picture of the front of the power supply</figcaption>
+  </figure>
 
-<figure>
-  <img width="562.5" height="750" alt="iamge" src="https://github.com/user-attachments/assets/c57a191f-8aef-49fa-8b5a-26fd8949fd1e">
-  <figcaption align="center"><b>Figure 5:</b> Picture of the internals of the power supply</figcaption>
-</figure>
+  <br>
 
-<figure>
-  <img width="673" height="500" alt="image" src="https://github.com/user-attachments/assets/a9aa4723-c2f7-4f53-94b5-f92835d812d8" />
-  <figcaption align="center"><b>Figure 6:</b> Picture of the power supply</figcaption>
-</figure>
+  <figure>
+    <img width="400" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" alt="Top">
+    <figcaption><b>Figure 3:</b> Picture of the top of the power supply</figcaption>
+  </figure>
+
+  <br>
+
+  <figure>
+    <img width="800" src="https://github.com/user-attachments/assets/9e8af5b8-cf24-4819-9dfe-44928e1cf1a4" alt="Back">
+    <figcaption><b>Figure 4:</b> Picture of the back of the power supply</figcaption>
+  </figure>
+
+  <br>
+
+  <figure>
+    <img width="600" src="https://github.com/user-attachments/assets/c57a191f-8aef-49fa-8b5a-26fd8949fd1e" alt="Internals">
+    <figcaption><b>Figure 5:</b> Picture of the internals of the power supply</figcaption>
+  </figure>
+
+  <br>
+
+  <figure>
+    <img width="800" src="https://github.com/user-attachments/assets/a9aa4723-c2f7-4f53-94b5-f92835d812d8" alt="Overall">
+    <figcaption><b>Figure 6:</b> Picture of the power supply</figcaption>
+  </figure>
+
+</div>
