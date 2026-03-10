@@ -47,19 +47,19 @@ I've decided to go with the 150W model as this would allow me to replace my lapt
 8. PLA 3D filament
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/5a2526fa-f05f-4799-87af-9566b0e94cf5" alt="Circuit Schematic of the Power Supply">
+  <img width="700" height="1083" src="https://github.com/user-attachments/assets/f7ccc004-a680-4aa5-9b45-016438eef96c" alt="Circuit Schematic of the Power Supply">
   <figcaption align="center"><b>Figure 1:</b> Circuit Schematic of the Power Supply</figcaption>
-</figure>
+</figure
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/b636c595-8b28-4bda-862c-4902268ba5f5" alt="Front of Power Supply">
+  <img <img width="700" height="412" alt="image" src="https://github.com/user-attachments/assets/95dcf6d1-8fc5-4e13-9051-462cd69e71c4" alt="Front of Power Supply">
   <figcaption align="center"><b>Figure 2:</b> Picture of the front of the power supply</figcaption>
 </figure>
 
 <figure>
-  <img width="700" height="1980" alt="image" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" />
+  <img width="247" height="700" alt="image" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" />
   <figcaption align="center"><b>Figure 3:</b> Picture of the top of the power supply
 </figure>
 
-<img width="2664" height="3770" alt="image" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" />
+
 
