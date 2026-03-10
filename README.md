@@ -48,44 +48,48 @@ I've decided to go with the 150W model as this would allow me to replace my lapt
 
 <div align="center">
 
-  <figure>
-    <img width="800" src="https://github.com/user-attachments/assets/f7ccc004-a680-4aa5-9b45-016438eef96c" alt="Circuit Schematic">
-    <figcaption><b>Figure 1:</b> Circuit Schematic of the Power Supply</figcaption>
-  </figure>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f7ccc004-a680-4aa5-9b45-016438eef96c" width="700"><br>
+      <sub><b>Figure 1:</b> Circuit Schematic of the Power Supply</sub>
+    </td>
+  </tr>
 
-  <br>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/95dcf6d1-8fc5-4e13-9051-462cd69e71c4" width="700"><br>
+      <sub><b>Figure 2:</b> Picture of the front of the power supply</sub>
+    </td>
+  </tr>
 
-  <figure>
-    <img width="800" src="https://github.com/user-attachments/assets/95dcf6d1-8fc5-4e13-9051-462cd69e71c4" alt="Front">
-    <figcaption><b>Figure 2:</b> Picture of the front of the power supply</figcaption>
-  </figure>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" width="700"><br>
+      <sub><b>Figure 3:</b> Picture of the top of the power supply</sub>
+    </td>
+  </tr>
 
-  <br>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9e8af5b8-cf24-4819-9dfe-44928e1cf1a4" width="700"><br>
+      <sub><b>Figure 4:</b> Picture of the back of the power supply</sub>
+    </td>
+  </tr>
 
-  <figure>
-    <img width="400" src="https://github.com/user-attachments/assets/d2b2ed69-b4e4-42af-a2b1-a9da1d40fdb7" alt="Top">
-    <figcaption><b>Figure 3:</b> Picture of the top of the power supply</figcaption>
-  </figure>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c57a191f-8aef-49fa-8b5a-26fd8949fd1e" width="700"><br>
+      <sub><b>Figure 5:</b> Picture of the internals of the power supply</sub>
+    </td>
+  </tr>
 
-  <br>
-
-  <figure>
-    <img width="800" src="https://github.com/user-attachments/assets/9e8af5b8-cf24-4819-9dfe-44928e1cf1a4" alt="Back">
-    <figcaption><b>Figure 4:</b> Picture of the back of the power supply</figcaption>
-  </figure>
-
-  <br>
-
-  <figure>
-    <img width="600" src="https://github.com/user-attachments/assets/c57a191f-8aef-49fa-8b5a-26fd8949fd1e" alt="Internals">
-    <figcaption><b>Figure 5:</b> Picture of the internals of the power supply</figcaption>
-  </figure>
-
-  <br>
-
-  <figure>
-    <img width="800" src="https://github.com/user-attachments/assets/a9aa4723-c2f7-4f53-94b5-f92835d812d8" alt="Overall">
-    <figcaption><b>Figure 6:</b> Picture of the power supply</figcaption>
-  </figure>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a9aa4723-c2f7-4f53-94b5-f92835d812d8" width="700"><br>
+      <sub><b>Figure 6:</b> Picture of the power supply</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
